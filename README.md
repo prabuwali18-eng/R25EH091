@@ -6,3 +6,8 @@ C, C++, Python, SQL, Git, GitHub, and Data Science.
 Artificial Intelligence, Data Science, Software Development, and Web Technologies.
 ## Goals
 Build practical projects, strengthen programming skills, and develop real-world experience in AI and software development.
+## Projects
+
+- **2D Graphics Editor** — A C-based graphics editing project.
+- **Gully Cricket** — A web-based cricket scoring application.
+- **Multilingual Robot AI** — An AI project exploring speech recognition and natural language interaction.
